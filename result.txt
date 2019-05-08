@@ -1,0 +1,26 @@
+D1
+H1	NP	Training 100.0%
+H1	NP	Validation 96.5%
+H1	NP	Test 95.67%
+H1	P	Training 100.0%
+H1	P	Validation 96.5%
+H1	P	Test 95.67%
+H2	NP	Training 100.0%
+H2	NP	Validation 96.5%
+H2	NP	Test 95.67%
+H2	P	Training 100.0%
+H2	P	Validation 96.5%
+H2	P	Test 95.67%
+D2
+H1	NP	Training 99.83%
+H1	NP	Validation 76.67%
+H1	NP	Test 72.34%
+H1	P	Training 96.17%
+H1	P	Validation 76.83%
+H1	P	Test 73.33%
+H2	NP	Training 96.16%
+H2	NP	Validation 76.83%
+H2	NP	Test 73.33%
+H2	P	Training 94.5%
+H2	P	Validation 77.0%
+H2	P	Test 75.17%
